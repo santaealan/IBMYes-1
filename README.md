@@ -50,7 +50,7 @@ addEventListener(
   `ALTER_ID`:　　　　alterId  
 * 修改项目`README.md`(打开文件, 右上角有个 `Edit this file`的图标), 随便加个空格, 点 `Commit changes`.
 * 点击项目 Actions, 可以看到有个`IBM Cloud Deploy` 正在工作了, 每周会自动部署一次(IBM 10天不用会停).
-
+ 
 ### Clash 客户端设置
 这里的客户端用的是`Clash`, 下面为对应的`vmess`部分设置.修改其中的`server`,`uuid`,`path`就好了.
 ```
